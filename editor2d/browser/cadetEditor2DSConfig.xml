@@ -58,6 +58,13 @@
 		<icon>cadetEditor.assets.CadetEditorIcons::BlankTemplateIcon</icon>
 	</template>
 	
+	<template>
+		<label><![CDATA[Lava Demo]]></label>
+		<description><![CDATA[A lava demo using graphics, shaders and bezier curves.]]></description>
+		<url><![CDATA[extensions/fileTemplates/lava.cdt2d]]></url>
+		<icon>cadetEditor.assets.CadetEditorIcons::BlankTemplateIcon</icon>
+	</template>
+	
   <template>
 		<label><![CDATA[Physics Demo]]></label>
 		<description><![CDATA[A simple physics demo using Cadet2DBox2D.]]></description>

@@ -27,13 +27,6 @@
 	<!--  File templates  -->
 	
 	<template>
-		<label><![CDATA[Barebones 2D]]></label>
-		<description><![CDATA[Creates a Cadet Editor scene with a Renderer2D]]></description>
-		<url><![CDATA[extensions/fileTemplates/barebones2DS.cdt2d]]></url>
-		<icon>cadetEditor.assets.CadetEditorIcons::BlankTemplateIcon</icon>
-	</template>	
-	
-	<template>
 		<label><![CDATA[HungryHero]]></label>
 		<description><![CDATA[Creates the Hungry Hero game level.]]></description>
 		<url><![CDATA[extensions/fileTemplates/HungryHero.cdt2d]]></url>
